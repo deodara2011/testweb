@@ -10,6 +10,7 @@
 <body>
 	<ul>
 		<li> <a href="<%=path %>/jsp/test_easyui/datagrid.jsp">test_datagrid</a> </li>
+		<li> git test</li>
 	</ul>
 </body>
 </html>
